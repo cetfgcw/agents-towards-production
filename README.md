@@ -34,10 +34,21 @@ Whether you're just starting out or refining your deployment stack, this repo gi
 
 <!-- row 2 -->
 <p align="center">
-  <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_runpod.png"     alt="RunPod"     height="40" style="pointer-events: none;">&nbsp;&nbsp;&nbsp;
-  <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander.png"    alt="Xpander.ai" height="40" style="pointer-events: none;">&nbsp;&nbsp;&nbsp;
-  <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_qualifire.png"  alt="Qualifire"  height="50" style="pointer-events: none;">
+  <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_runpod.png" alt="RunPod" height="40" style="pointer-events: none;">&nbsp;&nbsp;&nbsp;
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_dark.png">
+    <img
+      src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_light.png"
+      alt="xpander.ai Logo"
+      height="40"
+      style="pointer-events: none;"
+    >
+  </picture>&nbsp;&nbsp;&nbsp;
+
+  <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_qualifire.png" alt="Qualifire" height="50" style="pointer-events: none;">
 </p>
+
 
 <p align="center">
   <a href="mailto:nirdiamant21@gmail.com"><strong>Become a sponsor →</strong></a>
